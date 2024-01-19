@@ -1,4 +1,7 @@
 # Virtual-Painter
+
+<img src="https://github.com/Anchor27/Projects-Data-Repo/blob/main/h56E1KqX6HPoh3_rxpLil-transformed.jpeg">
+
 The Virtual Painter is an innovative project born out of a desire to blend the physical act of drawing with the capabilities of computer vision. This project enables users to draw in the air using real pens or markers, capturing their motions through a webcam in real-time. The program processes the video input, identifies the marker, and faithfully recreates the strokes on the digital canvas.
 
 ## Table of Contents
