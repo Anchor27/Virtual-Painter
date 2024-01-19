@@ -19,6 +19,9 @@ The Virtual Painter is an innovative project born out of a desire to blend the p
 12. Credits and Thanks
 
 ## 1. OpenCV
+
+<img src="https://github.com/Anchor27/Projects-Data-Repo/blob/main/opencv-wallpaper.png">
+
 OpenCV, or the Open Source Computer Vision Library, stands as a pivotal tool for the Virtual Painter project. Developed by Intel and now maintained by a global community, OpenCV is a versatile open-source software library designed for computer vision and machine learning applications. In the context of the Virtual Painter, OpenCV serves as the backbone for real-time processing, contour detection, and color tracking.
 
 At its core, OpenCV excels in real-time computer vision, offering essential tools for image and video processing. The library's ability to detect contours and approximate shapes is crucial for accurately tracking air drawings captured by the webcam. Additionally, OpenCV's color detection functionalities enable the recognition of different markers, allowing users to draw with physical pens or markers of various colors.
