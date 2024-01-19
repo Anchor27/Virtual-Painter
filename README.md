@@ -5,16 +5,15 @@ The Virtual Painter is an innovative project born out of a desire to blend the p
 1. OpenCV
 2. Integration of OpenCV
 3. System Requirements
-4. Use Cases
-5. Customization
-6. Examples
-7. Troubleshooting
-8. Known Issues
+4. Building and Running
+5. Use Cases
+6. Customization
+7. Examples
+8. Troubleshooting Common Issues
 9. FAQ (Frequently Asked Questions)
-10. Examples and Use Cases
-11. Performance Considerations
-12. Contributing Guidelines
-13. Credits and Thanks
+10. Performance Considerations
+11. Contributing Guidelines
+12. Credits and Thanks
 
 ## 1. OpenCV
 OpenCV, or the Open Source Computer Vision Library, stands as a pivotal tool for the Virtual Painter project. Developed by Intel and now maintained by a global community, OpenCV is a versatile open-source software library designed for computer vision and machine learning applications. In the context of the Virtual Painter, OpenCV serves as the backbone for real-time processing, contour detection, and color tracking.
